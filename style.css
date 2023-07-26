@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(182, 209, 182);
+}
+#photo{
+    width: 20%;
+    border: 5px solid black;
+}
+h2{
+font-family: 'Dancing Script', cursive;
+color:rgb(0, 0, 0);
+}
+p{
+    font-family: cursive;
+    padding:50px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(138, 158, 144);
+    margin-right: 20%;
+}
+ul{
+    font-family: cursive;
+    padding:25px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(137, 150, 140);
+    margin-right:77%;
+}
+
